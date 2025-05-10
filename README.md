@@ -25,13 +25,16 @@ C++, C#, Kotlin, SQL, Python, Javascript, Godot, Arduino, PHP.
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&theme=transparent" />
+      <p><strong>📊 Estadísticas de GitHub</strong></p>
+      <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&hide_title=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&theme=transparent" />
+      <p><strong>🧑‍💻 Lenguajes más usados</strong></p>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&hide_title=true&theme=dracula" />
     </td>
   </tr>
 </table>
+
 
 ## 🔗 Enlaces
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeven-dev/)

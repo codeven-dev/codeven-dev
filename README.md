@@ -3,7 +3,7 @@
 
 
 ## 💻✨ Mi lema es...
-"El código es solo una herramienta; la verdadera magia 🪄 está en resolver problemas 🧠💡."
+"El código es solo una herramienta; la verdadera magia está en resolver problemas 🧠💡."
 
 
 ## 🚀 Acerca de mi

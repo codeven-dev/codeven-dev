@@ -26,3 +26,6 @@ C++, C#, Kotlin, SQL, Python, Javascript, Godot, Arduino, PHP.
 
 ## 🔗 Estadisticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&theme=tokyonight)
+

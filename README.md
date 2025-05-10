@@ -1,9 +1,11 @@
 # Hola, soy Even! 👋
-🇪🇨 Desde Ecuador Un programador con pasión por desarrollar soluciones innovadoras y funcionales.
+🇪🇨 Desde Ecuador un programador con pasión por desarrollar soluciones innovadoras y funcionales.
 
 
 ## 💻✨ Mi lema es...
 "El código es solo una herramienta; la verdadera magia 🪄 está en resolver problemas 🧠💡."
+
+
 ## 🚀 Acerca de mi
 ❖ ⭐ Desarrollador en formación, siempre en constante aprendizaje.
 
@@ -18,5 +20,6 @@
 
 ## 🛠 Lenguajes y Tecnologías
 C++, C#, Kotlin, SQL, Python, Javascript, Godot, Arduino, PHP.
+
 ## 🔗 Enlaces
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeven-dev/)

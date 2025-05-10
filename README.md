@@ -21,11 +21,11 @@
 ## 🛠 Lenguajes y Tecnologías
 C++, C#, Kotlin, SQL, Python, Javascript, Godot, Arduino, PHP.
 
-## 🔗 Estadisticas
+## 🧠 Resumen de mi actividad
 <table>
   <tr>
     <td>
-      <p><strong>📊 Estadísticas de GitHub</strong></p>
+      <p><strong>📊 Estadísticas</strong></p>
       <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&hide_title=true&theme=dracula" />
     </td>
     <td>

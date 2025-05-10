@@ -19,18 +19,16 @@
 
 
 ## 🛠 Lenguajes y Tecnologías
-C++, C#, Kotlin, SQL, Python, Javascript, Godot, Arduino, PHP.
+C++, C#, Kotlin, SQL, MySQL, Python, Javascript, Godot, Arduino, PHP.
 
 ## 🧠 Resumen de mi actividad
 <table>
   <tr>
     <td>
-      <p><strong>📊 Estadísticas</strong></p>
-      <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&hide_title=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&hide_title=false&theme=dracula" />
     </td>
     <td>
-      <p><strong>🧑‍💻 Lenguajes más usados</strong></p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&hide_title=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&hide_title=false&theme=dracula" />
     </td>
   </tr>
 </table>

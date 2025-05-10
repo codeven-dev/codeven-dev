@@ -7,15 +7,15 @@
 
 
 ## 🚀 Acerca de mi
-❖ ⭐ Desarrollador en formación, siempre en constante aprendizaje.
+➜ ⭐ Desarrollador en formación, siempre en constante aprendizaje.
 
-❖ 🎓 Estudiante de Ingeniería en Software en la Universidad Tecnológica Ecotec.
+➜ 🎓 Estudiante de Ingeniería en Software en la Universidad Tecnológica Ecotec.
 
-❖ 📱 Apasionado por el desarrollo de sistemas de escritorio, aplicaciones Android y proyectos con Arduino.
+➜ 📱 Apasionado por el desarrollo de sistemas de escritorio, aplicaciones Android y proyectos con Arduino.
 
-❖ 💡 Transformo problemas en soluciones de código, combinando creatividad y lógica.
+➜ 💡 Transformo problemas en soluciones de código, combinando creatividad y lógica.
 
-❖ 🤝 Me adapto fácilmente a trabajar en equipo o de manera individual, siempre con compromiso y responsabilidad.
+➜ 🤝 Me adapto fácilmente a trabajar en equipo o de manera individual, siempre con compromiso y responsabilidad.
 
 
 ## 🛠 Lenguajes y Tecnologías
@@ -32,7 +32,3 @@ C++, C#, Kotlin, SQL, MySQL, Python, Javascript, Godot, Arduino, PHP.
     </td>
   </tr>
 </table>
-
-
-## 🔗 Enlaces
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codeven-dev/)

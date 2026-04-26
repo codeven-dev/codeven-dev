@@ -1,34 +1,26 @@
-# Hola, soy Even! 👋
-🇪🇨 Desde Ecuador un programador con pasión por desarrollar soluciones innovadoras y funcionales.
+# Even Fierro
 
+Software Engineering student from Guayaquil, Ecuador.
 
-## 💻✨ Mi lema es...
-"El código es solo una herramienta; la verdadera magia está en resolver problemas 🧠💡."
+I like building tools, desktop apps, backend services, and systems that turn ideas into working software.
 
+## What I'm focused on
 
-## 🚀 Acerca de mi
-● ⭐ Desarrollador en formación, siempre en constante aprendizaje.
+- Building practical software with solid foundations
+- Learning architecture, product thinking, and better engineering habits
+- Exploring developer tools, local-first workflows, and knowledge systems
+- Contributing fixes and improvements upstream when something is broken
 
-● 🎓 Estudiante de Ingeniería en Software en la Universidad Tecnológica Ecotec.
+## Tech I work with
 
-● 📱 Apasionado por el desarrollo de sistemas de escritorio, aplicaciones Android y proyectos con Arduino.
+`C#` `Kotlin` `Python` `FastAPI` `SQL` `MySQL` `JavaScript` `Git` `Arduino`
 
-● 💡 Transformo problemas en soluciones de código, combinando creatividad y lógica.
+## Featured work
 
-● 🤝 Me adapto fácilmente a trabajar en equipo o de manera individual, siempre con compromiso y responsabilidad.
+- [`obsidian-brain`](https://github.com/codeven-dev/obsidian-brain) - semantic search and knowledge graph tooling for Obsidian
+- [`sdd-engram-plugin`](https://github.com/codeven-dev/sdd-engram-plugin) - OpenCode plugin for SDD profile management and Engram memory browsing
+- [`absurd-excuses-api`](https://github.com/codeven-dev/absurd-excuses-api) - small FastAPI project for practicing REST API fundamentals
 
+## Current direction
 
-## 🛠 Lenguajes y Tecnologías
-C++, C#, Kotlin, SQL, MySQL, Python, Javascript, Godot, Arduino, PHP.
-
-## 🧠 Resumen de mi actividad
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=codeven-dev&show_icons=true&hide_title=false&theme=dracula" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeven-dev&layout=compact&hide_title=false&theme=dracula" />
-    </td>
-  </tr>
-</table>
+Right now I'm sharpening my skills around software design, better tooling, and building things that feel simple on the surface but are well thought out underneath.

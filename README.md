@@ -15,11 +15,13 @@ I like building tools, desktop apps, backend services, and systems that turn ide
 
 `C#` `Kotlin` `Python` `FastAPI` `SQL` `MySQL` `JavaScript` `Git` `Arduino`
 
-## Featured work
+## Projects
 
-- [`obsidian-brain`](https://github.com/codeven-dev/obsidian-brain) - semantic search and knowledge graph tooling for Obsidian
-- [`sdd-engram-plugin`](https://github.com/codeven-dev/sdd-engram-plugin) - OpenCode plugin for SDD profile management and Engram memory browsing
-- [`absurd-excuses-api`](https://github.com/codeven-dev/absurd-excuses-api) - small FastAPI project for practicing REST API fundamentals
+- [`absurd-excuses-api`](https://github.com/codeven-dev/absurd-excuses-api) - a small FastAPI project built to practice REST API fundamentals and backend structure
+
+## Open source
+
+- I also explore and contribute fixes to open source projects when I find rough edges worth improving.
 
 ## Current direction
 

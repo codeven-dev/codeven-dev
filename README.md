@@ -11,13 +11,9 @@ I like building tools, desktop apps, backend services, and systems that turn ide
 - Exploring developer tools, local-first workflows, and knowledge systems
 - Contributing fixes and improvements upstream when something is broken
 
-## What I use most
+## Tech I work with
 
-`Python` `FastAPI` `SQL` `Git`
-
-## Also exploring
-
-`C#` `Kotlin` `JavaScript` `Arduino`
+`React` `TypeScript` `JavaScript` `Kotlin` `C#` `C++` `Git`
 
 ## Projects
 

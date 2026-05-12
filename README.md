@@ -1,28 +1,29 @@
-# Even Fierro
+# Hi, I'm Even Fierro
 
-Software Engineering student from Guayaquil, Ecuador.
+Software Engineering student from Guayaquil, Ecuador. I build practical web apps, backend APIs, automations, and AI-assisted tools for small business workflows and internal projects.
 
-I like building tools, desktop apps, backend services, and systems that turn ideas into working software.
+## What I build
 
-## What I'm focused on
+- Web apps and lightweight internal tools
+- Landing pages with forms and simple integrations
+- Backend APIs and database-driven features
+- Email automations with Mailgun or Brevo
+- Twilio integrations for communication workflows
+- Simple AI-assisted tools using LLM APIs, prompts, and basic RAG
 
-- Building practical software with solid foundations
-- Learning architecture, product thinking, and better engineering habits
-- Exploring developer tools, local-first workflows, and knowledge systems
-- Contributing fixes and improvements upstream when something is broken
+## Tech stack
 
-## Tech I work with
+**Frontend:** React, TypeScript, JavaScript, HTML, CSS  
+**Backend:** Node.js, Fastify, REST APIs  
+**Databases:** MySQL, PostgreSQL, SQLite  
+**Integrations:** Twilio, Mailgun, Brevo, OpenAI/Gemini APIs  
+**Workflow:** Git, GitHub, VS Code, AI-assisted development
 
-`React` `TypeScript` `JavaScript` `Kotlin` `C#` `C++` `Git`
+## Current focus
 
-## Projects
+I'm focused on building small, useful software projects that solve real business problems: forms, dashboards, integrations, automations, and internal tools.
 
-- [`absurd-excuses-api`](https://github.com/codeven-dev/absurd-excuses-api) - a small FastAPI project built to practice REST API fundamentals and backend structure
+## Connect
 
-## Open source
-
-- I also explore and contribute fixes to open source projects when I find rough edges worth improving.
-
-## Current direction
-
-Right now I'm sharpening my skills around software design, better tooling, and building things that feel simple on the surface but are well thought out underneath.
+- LinkedIn: https://www.linkedin.com/in/codeven-dev/
+- GitHub: https://github.com/codeven-dev
